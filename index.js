@@ -37,5 +37,5 @@ let actionApplyer = function(num, arr){
     s = arr[i](s)
 
   }
-
+  return s
 }
