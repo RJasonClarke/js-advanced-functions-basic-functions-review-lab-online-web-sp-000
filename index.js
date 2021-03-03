@@ -29,3 +29,13 @@ subtract: function(a, b) {
   }
 
 }
+
+let actionApplyer = function(num, arr){
+  let s = num
+
+  for (let i = 0; i < arr.length; i++) {
+    s = arr[i](s)
+
+  }
+
+}
