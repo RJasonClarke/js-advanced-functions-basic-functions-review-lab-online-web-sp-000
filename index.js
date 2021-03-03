@@ -13,3 +13,7 @@ function wrapAdjective(flair="*") {
     return `You are ${flair }${adj}${flair}!`;
   }
 }
+
+const Calculator = {
+
+}
