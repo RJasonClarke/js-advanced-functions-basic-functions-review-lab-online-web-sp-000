@@ -14,17 +14,5 @@ function wrapAdjective(flair="*") {
   }
 }
 
-  const Calculator = {
-  add: function(1, 3) {
-    return 1+3;
-  },
-  subtract: function(1, 3) {
-    return 1-3;
-  },
-  multiply: function(1, 3) {
-    return 1*3;
-  },
-  divide: function(1, 3) {
-    return 1/3;
-  }
+
 }
